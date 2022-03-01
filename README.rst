@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+FRC Made Easy
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+A site made by @drdonv and @cartha353 to help make programming with FRC easier to get into.
