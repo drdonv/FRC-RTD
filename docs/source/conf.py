@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FRC Made Easy'
+copyright = '2022, Dhanvi Ganti and Karthik Appana'
+author = 'drdonv, cartha353'
 
 release = '0.1'
 version = '0.1.0'
