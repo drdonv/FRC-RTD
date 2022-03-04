@@ -3,7 +3,7 @@ Welcome to FRC Made Easy's documentation!
 
 **FRC Made Easy** is a site dedicated to helping students flatten the learning curve needed to program your team's robot.
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`getting-started` section for further information, including
 the :ref:`installation` links you'll need to begin.
 
 .. note::
@@ -15,5 +15,6 @@ Contents
 
 .. toctree::
 
-   usage
+   getting-started
+   terminology
    api
