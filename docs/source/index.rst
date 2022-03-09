@@ -17,4 +17,4 @@ Contents
 
    getting-started
    terminology
-   troubleshooting
+   troubleshooting/index
