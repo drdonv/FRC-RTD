@@ -17,4 +17,7 @@ Contents
 
    getting-started
    terminology
+   troubleshooting-pages
    troubleshooting/index
+   api
+   master
