@@ -25,7 +25,7 @@ The RoboRIO has an issue with imaging from laptops with non-alphanumeric charact
 
 
 
-Firewall and Virus protection
+Firewall and Virus Protection
 -----------------------------
 Turn off your firewall and virus protection, they often impede formatting of the RoboRIO. Try again after doing so.
 Turn off the console output
