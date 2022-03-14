@@ -16,7 +16,7 @@ Contents
 .. toctree::
 
    getting-started
-   terminology
+   terminology/terminology
    troubleshooting-pages
    troubleshooting/index
    api
