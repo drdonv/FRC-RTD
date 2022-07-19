@@ -1,6 +1,6 @@
 Troubleshooting Hub
-===================================
-A summary of common problems faced when using the below systems.
+===================
+Common Problems
 ----------------------------------------------------------------
 .. toctree::
     driverstation/driverstation

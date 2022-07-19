@@ -9,10 +9,20 @@ Most problems you will face with the DriverStation are with the communication wi
 
 Setting Your Team Number
 ------------------------
-In order to have the DriverStation be able to communicate with your roboRIO, the two must have the same Team Number set. You may do this by clicking on the settings cog 
-.. image:: images/driverstation_settings_cog.png
 
-And then editing the team number text box from :guilabel: `xxyy` to your team number.
+
+In order to have the DriverStation be able to communicate with your roboRIO, you must set the two to your team number. To set the DriverStation's number, you may click on the settings cog to open the relevant menu.
+
+.. image:: images/driverstation_settings_cog.png
+   :width: 200
+   :alt: Driverstation settings
+.. image:: images/driverstation_settings_menu.png
+   :width: 255
+   :alt: Driverstation menu
+
+From there, you can change the :guilabel:`xxyy` box to your team number.
+
+To change the team number on your roboRIO, click `here <https://code.visualstudio.com/download>`_.
 
 Turning Off Your Firewall
 ----------------------------------------------

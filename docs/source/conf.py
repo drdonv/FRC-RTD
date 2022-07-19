@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'FRC Made Easy'
-copyright = '2022, Dhanvi Ganti and Karthik Appana'
-author = 'drdonv, cartha353'
+copyright = '2022, Dhanvi Ganti'
+author = 'drdonv'
 
 release = '0.1'
 version = '0.1.0'
