@@ -1,5 +1,5 @@
 A-Z Terminology Explained
-==================
+=========================
 
 Driver Station
 --------------
@@ -12,8 +12,6 @@ Shuffleboard / SmartDashboard
 
 SmartDashboard is a tool that allows users to display whatever value they want by using a ``key, value`` system. SmartDashboard stores values in NetworkTables.
 Shuffleboard is a nicer display of SmartDashboard, and allows choosing of options as well as display of options.
-
-..img::
 
 NetworkTables
 -------------

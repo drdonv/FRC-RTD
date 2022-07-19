@@ -1,4 +1,4 @@
 FRC Made Easy
 =======================================
 
-A site made by @drdonv and @cartha353 to help make programming with FRC easier to get into.
+A site made by @drdonv to help make programming with FRC components easier to get into.

@@ -4,7 +4,7 @@
 
 project = 'FRC Made Easy'
 copyright = '2022, Dhanvi Ganti'
-author = 'drdonv, cartha353'
+author = 'drdonv'
 
 release = '0.1'
 version = '0.1.0'

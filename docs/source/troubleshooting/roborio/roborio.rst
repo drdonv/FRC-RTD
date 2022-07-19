@@ -23,7 +23,7 @@ The shortcut runs the program as administrator, which might fix issues.
 
 # **2. Check your laptop name**
 The RoboRIO has an issue with imaging from laptops with non-alphanumeric characters in their names (dashes). Change your laptop name to something with only alphanumeric characters and try again.
-For instance, :guilabel:`LAPTOP-123`` will **not** work, while :guilabel:`LAPTOP123` works just fine.
+For instance, :guilabel:`LAPTOP-123` will **not** work, while :guilabel:`LAPTOP123` works just fine.
 
 
 # **3. Firewall and Virus Protection** 
