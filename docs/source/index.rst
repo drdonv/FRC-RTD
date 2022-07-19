@@ -22,6 +22,6 @@ the :ref:`Installation` links you'll need to begin.
    :maxdepth: 1
    :caption: Software x Hardware
    :hidden:
-   
+
    setup/setup-index
    troubleshooting/index
