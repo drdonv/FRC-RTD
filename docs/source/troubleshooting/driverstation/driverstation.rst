@@ -1,5 +1,5 @@
 Troubleshooting DriverStation
-===================================
+=============================
 
 Most problems you will face with the DriverStation are with the communication with the roboRIO. Try the below fixes if this is happening to you.
 
