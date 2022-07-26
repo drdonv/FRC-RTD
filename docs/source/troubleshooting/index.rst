@@ -1,7 +1,8 @@
 Troubleshooting Hub
 ===================
-Common Problems
-----------------------------------------------------------------
+
 .. toctree::
     driverstation/driverstation
+    phoenix-tuner/phoenix-tuner
+    REV-hardware/REV-hardware
     roborio/roborio
